@@ -1,0 +1,10 @@
+# Project Requirements
+
+1. Pandas
+2. Numpy
+3. Seaborn
+4. Matplotlib
+5. statsmodels
+6. Linear Regression
+7. Random Forest Classifier
+8. scikit-Learn
